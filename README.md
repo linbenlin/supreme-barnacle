@@ -70,16 +70,6 @@
 <body>
 
 <div class="container">
-    <h1>AI Token Plan 申请全案</h1>
-    <p>请按照以下模块，将对应内容复制并粘贴到您的申请页面中。</p>
-
-    <!-- 04 题部分 -->
-    <div class="section-header">
-        <h2>【04 题】项目描述文案（专业精修版）</h2>
-    </div>
-    <div class="tip">提示：此版本重点突出了 Agent 的“自省”和“长链推理”能力，这符合审核官对高价值项目的预期。</div>
-    <div class="box" id="text04"><strong>项目名称：</strong> Cloud-Native Refactor Agent (云原生架构自动化重构智能体)
-
 <strong>核心痛点：</strong>
 传统企业级遗留系统（Legacy Systems）在向微服务及云原生架构迁移时，面临代码量庞大、耦合度极高的问题。人工重构不仅周期长（通常以月为单位），且在处理复杂的业务逻辑对齐时极易出错，导致系统稳定性受损。
 
